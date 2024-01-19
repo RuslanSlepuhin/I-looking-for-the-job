@@ -1,0 +1,1 @@
+chrome_driver_path = ".\settings\chrome\chromedriver_win32\chromedriver.exe"
